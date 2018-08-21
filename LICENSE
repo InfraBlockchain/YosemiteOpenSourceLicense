@@ -1,5 +1,5 @@
 /* ====================================================================
- * Copyright (c) 1998-2018 The OpenSSL Project.  All rights reserved.
+ * Copyright (c) 2018 Yosemite X Inc.  All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -15,27 +15,26 @@
  *
  * 3. All advertising materials mentioning features or use of this
  *    software must display the following acknowledgment:
- *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *    "Powered by YOSEMITE" or "This product includes software developed
+ *    by Yosemite X Inc. for use in the YOSEMITE Public Blockchain.
+ *    (https://github.com/YosemiteLabs/yosemite-public-blockchain)"
  *
- * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
- *    endorse or promote products derived from this software without
- *    prior written permission. For written permission, please contact
- *    openssl-core@openssl.org.
- *
- * 5. Products derived from this software may not be called "OpenSSL"
- *    nor may "OpenSSL" appear in their names without prior written
- *    permission of the OpenSSL Project.
- *
- * 6. Redistributions of any form whatsoever must retain the following
+ * 4. Redistributions of any form whatsoever must retain the following
  *    acknowledgment:
- *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *    "Powered by YOSEMITE" or "This product includes software developed
+ *    by Yosemite X Inc. for use in the YOSEMITE Public Blockchain.
+ *    (https://github.com/YosemiteLabs/yosemite-public-blockchain)"
  *
- * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+ * 5. Products derived from this software may not be called "YOSEMITE"
+ *    and "YOSEMITE Public Blockchain".
+ *
+ * 6. Products derived from this software may "YOSEMITE" appear in their
+ *    names.
+ *
+ * THIS SOFTWARE IS PROVIDED BY YOSEMITE X INC. ``AS IS'' AND ANY
  * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
- * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL YOSEMITE X INC. OR
  * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
  * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
  * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
@@ -46,9 +45,6 @@
  * OF THE POSSIBILITY OF SUCH DAMAGE.
  * ====================================================================
  *
- * This product includes cryptographic software written by Eric Young
- * (eay@cryptsoft.com).  This product includes software written by Tim
- * Hudson (tjh@cryptsoft.com).
+ * This product is powered by EOSIO(https://github.com/EOSIO/eos).
  *
  */
-
